@@ -16,7 +16,7 @@
 #pragma once
 
 #define ESP_PANEL_USE_1024_600_LCD           (1)     // 0: 800x480, 1: 1024x600
-#define ESP_OPEN_TOUCH 0 // 1 initiates the touch, 0 closes the touch.
+#define ESP_OPEN_TOUCH 1 // 1 initiates the touch, 0 closes the touch.
 
 /**
  * @brief Flag to enable custom board configuration (0/1)
