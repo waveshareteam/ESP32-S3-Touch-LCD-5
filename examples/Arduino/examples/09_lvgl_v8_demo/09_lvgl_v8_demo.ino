@@ -13,7 +13,7 @@ using namespace esp_panel::board;
 void setup()
 {
     Serial.begin(115200);
-    Serial.println("LVGL v9.5.0 porting example start");
+    Serial.println("LVGL v8 demo start");
 
     Board *board = new Board();
     if ((board == nullptr) || !board->init()) {
@@ -68,7 +68,7 @@ void setup()
     lv_demo_widgets();
     esp_lv_adapter_unlock();
 
-    Serial.println("LVGL v9.5.0 porting example ready");
+    Serial.println("LVGL v8 demo ready");
 }
 
 void loop()
