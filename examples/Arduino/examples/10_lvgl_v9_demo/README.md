@@ -19,4 +19,4 @@ You can copy the workspace file `examples/Arduino/lv_conf.h` to the global `Ardu
 
 - This sketch now includes `#include <demos/lv_demos.h>` directly.
 - Do not keep a local `demos/` copy inside this example folder.
-- Keep this example in an independent folder so it does not affect the existing `09_lvgl_Porting` example.
+- Keep this example in an independent folder so it does not affect the existing `09_lvgl_v8_demo` example.
