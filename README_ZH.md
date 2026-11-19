@@ -6,6 +6,7 @@
 
 - [购买链接](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-5.htm)
 - [产品文档](https://docs.waveshare.net/ESP32-S3-Touch-LCD-5/)
+- [出厂固件及烧录说明](firmware/README_ZH.md)
 
 ![主图](./assets/Product-1.webp)
 
