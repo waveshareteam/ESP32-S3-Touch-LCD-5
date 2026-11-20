@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "products": [
+    {
+      "id": "esp32-s3-touch-lcd-5",
+      "model": "ESP32-S3-Touch-LCD-5",
+      "files": [
+        "firmware/ESP32-S3-Touch-LCD-5_FactoryOnly_20260225.bin",
+        "firmware/ESP32-S3-LCD-5_FactoryOnly_20260224.bin"
+      ]
+    },
+    {
+      "id": "esp32-s3-touch-lcd-5b",
+      "model": "ESP32-S3-Touch-LCD-5B",
+      "files": [
+        "firmware/ESP32-S3-Touch-LCD-5B_FactoryOnly_20260225.bin",
+        "firmware/ESP32-S3-LCD-5B_FactoryOnly_20260224.bin"
+      ]
+    }
+  ]
+}
